@@ -23,3 +23,6 @@ access our app then?
 we use **Container port mapping**
 Port mapping is where we map any port on the local machine to container port(s)
 The syntax to use while mapping ports is as follows
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/73703812/155484459-c44fb0ec-c74b-4630-b5e8-8f9f4dcdf216.png">
+
+Here you go. now to can access our application on localhost.

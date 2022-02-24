@@ -1,2 +1,1 @@
-# hello-docker
-Creating images and containers using docker.
+### Simple explanations on docker and how to use it.
